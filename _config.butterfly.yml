@@ -37,8 +37,8 @@ copy:
     limit_count: 50
 
 # social settings (社交圖標設置)
- formal:
-   icon: link || the description
+# formal:
+#       icon: link || the description
 social:
    fab fa-github: https://github.com/airicat || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
